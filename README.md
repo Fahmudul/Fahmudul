@@ -7,7 +7,7 @@
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=MERN-stack%20Developer%20(Critical%20Thinker);3%2B%20years%20of%20coding%20experience;I'm%20a%20lifelong%20learner;Constantly%20exploring%20new%20technologies.,&font=Fira%20Code&center=true&width=660&height=45&color=#a2c3e1&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=MERN-stack%20Developer%20(Critical%20Thinker);3%2B%20years%20of%20coding%20experience;I'm%20a%20lifelong%20learner;Constantly%20exploring%20new%20technologies...&font=Fira%20Code&center=true&width=660&height=45&color=#a2c3e1&vCenter=true&pause=1000&size=22" /></a>
 </p>
 <img align="center" alt="GIF" clear="both" src="https://lfsolutions.net/wp-content/uploads/2021/12/Full-Stack-Development-Featured-Image-LevelFive-Solutions.gif" width="100%" height="auto" />
 

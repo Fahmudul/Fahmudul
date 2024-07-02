@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <p align="center">
   <a href="https://github.com/Fahmudul?text_color=#a2c3e1">
-    Fahmudul Hassan</a>
+    Fahmudul Hassan Siam</a>
 </p></h1>
 <h3 align="center">Full-Stack Developer (MERN+) | Experienced in C/C++ & Python for versatile solutions</h3>
 

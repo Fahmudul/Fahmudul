@@ -66,7 +66,7 @@
 </div>
 <h1 align="center" height="200px">My Github Status 📊 </h1>
 <div align="center">
-<hr>
+
 <a href="https://github.com/Fahmudul">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fahmudul&layout=compact&langs_count=9&show_icons=true&theme=react&hide_border=true&text_color=#a2c3e1" width="500" />
 </a>

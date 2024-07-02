@@ -12,7 +12,12 @@
       </style>
 
       <div class="container">
-        <h1>Hi there, my name is Nikola 👋</h1>
+        <a href="https://github.com/Fahmudul">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fahmudul&layout=compact&langs_count=9&show_icons=true&theme=react&hide_border=true&text_color=#a2c3e1" width="600" />
+</a>
+<a href="https://github.com/Fahmudul">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Fahmudul&show_icons=true&theme=react&hide_border=true&text_color=ffffff" width="500" />
+</a>
       </div>
     </div>
   </foreignObject>

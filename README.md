@@ -22,8 +22,8 @@
 </h2>
 
 
-- 🔭 I’m currently working on **Havit Hive**
-- 👯 I’m looking to collaborate on **Havit Hive**
+- 🔭 I’m currently working on **Kumo Trails**
+- 👯 I’m looking to collaborate in your project
 - 🌱 I’m currently working MERN Stacks, Data Structures & Algorithms.
 - ⚡ Fun fact: **Don't stop until you are proud**.
 - 📫 How to reach me **fahmudul234@gmail.com**

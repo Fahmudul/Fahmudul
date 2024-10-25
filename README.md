@@ -56,6 +56,16 @@
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="bootstrap" width="60" height="60"/> </a>
  </p>
 
+
+### <h2 align="left">Currently Exploring: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h3>
+
+<p align="center">
+
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/192107856-aa92c8b1-b615-47c3-9141-ed0d29a90239.png" alt="bootstrap" width="60" height="60"/> </a>
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" alt="bootstrap" width="60" height="60"/> </a>
+  
+</p>
+
 <div style="width: 100%;">
   <img src="hello.svg" style="width: 100%;" alt="Click to see the source">
 </div>
